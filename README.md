@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Enzo KACI aka @Kenzo3003
+- 👀 I’m interested in Machine Learning and its Applications in many areas (health, finance, life experience, ...)
+- 🌱 I’m currently learning applied Machine Learning and the theoritical Math behind it
+- 💞️ I’m looking to collaborate on any data focused project, with the chance of using data engineering skills and performing model exploration
+- 📫 How to reach me: here mainly (will add more soon)
